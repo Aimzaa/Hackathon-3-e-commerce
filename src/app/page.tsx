@@ -1,7 +1,7 @@
-import Hero from "./components/Hero";
-import FeaturedProduct from "./components/FeaturedProduct";
-import TopCategories from "./components/TopCategories";
-import OurProduts from "./components/OurProduts";
+import Hero from "../components/Hero";
+import FeaturedProduct from "../components/FeaturedProduct";
+import TopCategories from "../components/TopCategories";
+import OurProduts from "../components/OurProduts";
 
 
 
